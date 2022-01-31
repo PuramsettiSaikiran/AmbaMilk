@@ -39,7 +39,7 @@ function Header(){
                 <div className="card mt-5" style={{height:"325px", width:"370px"}}>
                     <div className="row h-100 w-100 m-0">
                         <div className="d-flex align-items-center" style={{fontSize:"28px"}}>
-                           <img style={{height:"100px"}} src="./AncientBuffaloFarming.png" className="img-fluid rounded-start" alt="..."/>
+                           <img style={{height:"100px"}} src="../AncientBuffaloFarming.png" className="img-fluid rounded-start" alt="..."/>
                            <div>Ancient Farming</div>
                         </div>
                         <div className="d-flex">
@@ -58,7 +58,7 @@ function Header(){
                 <div className="card mt-5" style={{height:"325px", width:"370px"}}>
                     <div className="row h-100 w-100 m-0">
                         <div className="d-flex align-items-center justify-content-evenly" style={{fontSize:"28px"}}>
-                          <img style={{height:"100px"}} src="./ZeroWaterMilk.jfif" className="img-fluid rounded-start" alt="..."/>
+                          <img style={{height:"100px"}} src="../ZeroWaterMilk.jfif" className="img-fluid rounded-start" alt="..."/>
                           <div>Zero Water</div>
                         </div>
                         <div className="d-flex">
@@ -77,7 +77,7 @@ function Header(){
                 <div className="card mt-5" style={{height:"325px", width:"370px"}}>
                     <div className="row h-100 w-100 m-0">
                         <div className="d-flex align-items-center" style={{fontSize:"28px"}}>
-                          <img style={{height:"100px"}} src="./HygieneDelivery.jpg" className="img-fluid rounded-start" alt="..."/>
+                          <img style={{height:"100px"}} src="../HygieneDelivery.jpg" className="img-fluid rounded-start" alt="..."/>
                           <div>Hygiene Delivery</div>
                         </div>
                         <div className="d-flex">
@@ -107,35 +107,35 @@ function Header(){
                 </div>
                 <div className="carousel-inner h-100 w-100">
                     <div className="carousel-item active">
-                      <img src="./MilkDelivery.jfif" height="400" className="d-block w-100" alt="..."/>
+                      <img src="../MilkDelivery.jfif" height="400" className="d-block w-100" alt="..."/>
                       <div className="carousel-caption d-none d-md-block">
                         <h1>Door delivery</h1>
                         <p>We deliver all our products at your door steps.</p>
                      </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="./LiveTracking.jpg" height="400" className="d-block w-100" alt="..."/>
+                        <img src="../LiveTracking.jpg" height="400" className="d-block w-100" alt="..."/>
                         <div className="carousel-caption d-none d-md-block">
                             <h1>Live tracking</h1>
                             <p>You can track all our deliver partner on just a click.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="./OnlinePayment.png" height="400" className="d-block w-100" alt="..."/>
+                        <img src="../OnlinePayment.png" height="400" className="d-block w-100" alt="..."/>
                         <div className="carousel-caption d-none d-md-block">
                             <h1>Online payment</h1>
                             <p>You can pay your monthly bills using online payment mode.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="./PayLater.jpg" height="400" className="d-block w-100" alt="..."/>
+                        <img src="../PayLater.jpg" height="400" className="d-block w-100" alt="..."/>
                         <div className="carousel-caption d-none d-md-block">
                             <h1>Pay later</h1>
                             <p>We provide a one month pay later grace period for the needed ones.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="./AllPaymentsSupported.jpg" height="400" className="d-block w-100" alt="..."/>
+                        <img src="../AllPaymentsSupported.jpg" height="400" className="d-block w-100" alt="..."/>
                         <div className="carousel-caption d-none d-md-block">
                             <h1>Payment modes</h1>
                             <p>We supports all types of payment modes in all ways.</p>
@@ -158,7 +158,7 @@ function Header(){
                 <div className="card mt-5" style={{width:"100%"}}>
                         <div className="row h-100 w-100 m-0">
                             <div className="col-4" style={{alignSelf:"center"}}>
-                              <img style={{height:"300px", width:"100%"}} src="./Milk.jfif" className="img-fluid rounded-start" alt="..."/>
+                              <img style={{height:"300px", width:"100%"}} src="../Milk.jfif" className="img-fluid rounded-start" alt="..."/>
                             </div>
                             <div className="col-8">
                             <div className="card-body h-100 w-100">
@@ -175,7 +175,7 @@ function Header(){
                 <div className="card mt-5" style={{width:"100%"}}>
                         <div className="row h-100 w-100 m-0">
                             <div className="col-4"  style={{alignSelf:"center"}}>
-                            <img style={{height:"300px", width:"100%"}} src="./Yogurt.jpg" className="img-fluid rounded-start" alt="..."/>
+                            <img style={{height:"300px", width:"100%"}} src="../Yogurt.jpg" className="img-fluid rounded-start" alt="..."/>
                             </div>
                             <div className="col-8">
                             <div className="card-body h-100 w-100">
@@ -195,7 +195,7 @@ function Header(){
                 <div className="card mt-5" style={{width:"100%"}}>
                         <div className="row h-100 w-100 m-0">
                             <div className="col-4"  style={{alignSelf:"center"}}>
-                            <img style={{height:"300px", width:"100%"}} src="./Ghee.jpg" className="img-fluid rounded-start" alt="..."/>
+                            <img style={{height:"300px", width:"100%"}} src="../Ghee.jpg" className="img-fluid rounded-start" alt="..."/>
                             </div>
                             <div className="col-8">
                             <div className="card-body h-100 w-100">
@@ -218,7 +218,7 @@ function Header(){
             <div className="d-flex justify-content-center p-3" style={{fontSize:"35px"}}>About us</div>
                 <div className="d-flex flex-row flex-wrap justify-content-evenly">
                     <div className="card mt-5" style={{height:"350px",width:"300px"}}>
-                        <img src="./VijayDhan.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
+                        <img src="../VijayDhan.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
                         <div className="card-body" style={{textAlign:"center"}}>
                             <h5 className="card-title" style={{fontSize:"28px"}}>Vijay Swarna</h5>
                             <p className="card-text">General Manager</p>
@@ -226,7 +226,7 @@ function Header(){
                         </div>
                     </div>
                     <div className="card mt-5" style={{height:"350px",width:"300px"}}>
-                        <img src="./Saikiran.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
+                        <img src="../Saikiran.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
                         <div className="card-body" style={{textAlign:"center"}}>
                             <h5 className="card-title" style={{fontSize:"28px"}}>Saikiran Puramsetti</h5>
                             <p className="card-text">Chief Executive Officer</p>
@@ -234,7 +234,7 @@ function Header(){
                         </div>
                     </div>
                     <div className="card mt-5" style={{height:"350px",width:"300px"}}>
-                        <img src="./Manoj.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
+                        <img src="../Manoj.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
                         <div className="card-body" style={{textAlign:"center"}}>
                             <h5 className="card-title" style={{fontSize:"28px"}}>Manoj Mekapati</h5>
                             <p className="card-text">Category Manager</p>
