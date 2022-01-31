@@ -1,1 +1,1 @@
-{"version":3,"file":"static/css/main.9fe9c29f.css","mappings":"AAAA,UACE,WAAY,CACZ,QACF,CCHA,cACI,cACJ","sources":["index.css","Header.css"],"sourcesContent":["html, body{\n  height: 100%;\n  margin:0px;\n}",".navbar-brand{\r\n    font-size: 30px;\r\n}"],"names":[],"sourceRoot":""}
+{"version":3,"file":"static/css/main.9fe9c29f.css","mappings":"AAAA,UACE,WAAY,CACZ,QACF,CCHA,cACI,cACJ","sources":["index.css","Header.css"],"sourcesContent":["html, body{\r\n  height: 100%;\r\n  margin:0px;\r\n}",".navbar-brand{\r\n    font-size: 30px;\r\n}"],"names":[],"sourceRoot":""}
