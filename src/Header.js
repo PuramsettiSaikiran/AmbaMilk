@@ -226,7 +226,7 @@ function Header(){
                         </div>
                     </div>
                     <div className="card mt-5" style={{height:"350px",width:"300px"}}>
-                        <img src="../Saikiran.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
+                        <img src="./Saikiran.PNG" style={{height:"200px"}} className="card-img-top" alt="..."/>
                         <div className="card-body" style={{textAlign:"center"}}>
                             <h5 className="card-title" style={{fontSize:"28px"}}>Saikiran Puramsetti</h5>
                             <p className="card-text">Chief Executive Officer</p>
