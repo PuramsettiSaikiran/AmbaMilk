@@ -1,12 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Header from './Header';
 import reportWebVitals from './reportWebVitals';
+
+function Index(){
+return <div className="container-fluid h-100 w-100 p-0">
+        <div className="row h-100 w-100 m-0">
+          <Header></Header>
+        </div>
+      </div>
+}
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Index/>
   </React.StrictMode>,
   document.getElementById('root')
 );
