@@ -5,7 +5,7 @@ function Header(){
     <nav id="navbar-header" className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid" style={{border:"1px solid silver", borderTop:"none", borderLeft:"none", borderRight:"none"}}>
         <a className="navbar-brand" href="/">
-            <img src="../AmbaMilkLogo.jpg" alt="" width="75" height="45" className="d-inline-block align-text-top"/>
+            <img src="./AmbaMilkLogo.jpg" alt="" width="75" height="45" className="d-inline-block align-text-top"/>
             AmbaMilk
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
