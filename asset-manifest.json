@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AmbaMilk/static/css/main.9fe9c29f.css",
-    "main.js": "/AmbaMilk/static/js/main.51b44c16.js",
+    "main.js": "/AmbaMilk/static/js/main.9cf95ec1.js",
     "static/js/787.bef54a3a.chunk.js": "/AmbaMilk/static/js/787.bef54a3a.chunk.js",
     "index.html": "/AmbaMilk/index.html",
     "main.9fe9c29f.css.map": "/AmbaMilk/static/css/main.9fe9c29f.css.map",
-    "main.51b44c16.js.map": "/AmbaMilk/static/js/main.51b44c16.js.map",
+    "main.9cf95ec1.js.map": "/AmbaMilk/static/js/main.9cf95ec1.js.map",
     "787.bef54a3a.chunk.js.map": "/AmbaMilk/static/js/787.bef54a3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe9c29f.css",
-    "static/js/main.51b44c16.js"
+    "static/js/main.9cf95ec1.js"
   ]
 }
