@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AmbaMilk/static/css/main.9fe9c29f.css",
-    "main.js": "/AmbaMilk/static/js/main.5753e615.js",
-    "static/js/787.bef54a3a.chunk.js": "/AmbaMilk/static/js/787.bef54a3a.chunk.js",
-    "index.html": "/AmbaMilk/index.html",
-    "main.9fe9c29f.css.map": "/AmbaMilk/static/css/main.9fe9c29f.css.map",
-    "main.5753e615.js.map": "/AmbaMilk/static/js/main.5753e615.js.map",
-    "787.bef54a3a.chunk.js.map": "/AmbaMilk/static/js/787.bef54a3a.chunk.js.map"
+    "main.css": "/static/css/main.9fe9c29f.css",
+    "main.js": "/static/js/main.356dbaa7.js",
+    "static/js/787.bef54a3a.chunk.js": "/static/js/787.bef54a3a.chunk.js",
+    "index.html": "/index.html",
+    "main.9fe9c29f.css.map": "/static/css/main.9fe9c29f.css.map",
+    "main.356dbaa7.js.map": "/static/js/main.356dbaa7.js.map",
+    "787.bef54a3a.chunk.js.map": "/static/js/787.bef54a3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe9c29f.css",
-    "static/js/main.5753e615.js"
+    "static/js/main.356dbaa7.js"
   ]
 }
